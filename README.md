@@ -2,7 +2,7 @@
 
 A curated list of awesome [Eos.io](http://eos.io/) plugins. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
-For a more generic list of EOSIO resources, visit [awesome-eos](https://github.com/eosplace/awesome-eos/)
+For a generic list of EOSIO resources, visit [awesome-eos](https://github.com/eosplace/awesome-eos/)
 ### Contributing
 Please take a quick gander at the [contribution guidelines](https://github.com/tmuskal/awesome-eosio-plugins/blob/master/CONTRIBUTING.md) first. 
 
