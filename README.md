@@ -3,7 +3,7 @@
 A curated list of awesome [Eos.io](http://eos.io/) plugins. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
-Please take a quick gander at the [contribution guidelines](https://github.com/tmuskal/awesome-eosio-plugins/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/tmuskal/awesome-eosio-plugins/blob/master/MAINTAINERS); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/tmuskal/awesome-eosio-plugins/blob/master/CONTRIBUTING.md) first. 
 
 ## Queues Plugins:
 Push blockchain data into a queue
