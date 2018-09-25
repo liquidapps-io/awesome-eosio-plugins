@@ -21,7 +21,7 @@ Sync blockchain data into a DB
 Notify blockchain data to consumers through other protocols:
 
 - [eosio-watcher-plugin](https://github.com/eosauthority/eosio-watcher-plugin) - HTTP POST to endpoint for on chain actions
-- [eosio_block_subscription_plugin](https://github.com/MyWishPlatform/eosio_block_subscription_plugin) - TCP Server for on push notifications of chain actions
+- [eosio_block_subscription_plugin](https://github.com/MyWishPlatform/eosio_block_subscription_plugin) - TCP Server for push notifications on chain actions
 
 ## Debug Plugins
 - [eosio_all_code_dump_plugin](https://github.com/spoonincode/eosio_all_code_dump_plugin) - Dump all contract code to a directory
