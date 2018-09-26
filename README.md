@@ -17,6 +17,7 @@ Sync blockchain data into a DB
 
 - [eosio_sql_plugin](https://github.com/asiniscalchi/eosio_sql_plugin) - SOCI based SQL Databases
 - [eos_sql_db_plugin](https://github.com/superoneio/eos_sql_db_plugin) - MySQL Databases
+- [elasticsearch_plugin](https://github.com/EOSLaoMao/elasticsearch_plugin) - ElasticSearch
 
 ## Push Plugins:
 Notify blockchain data to consumers through other protocols:
