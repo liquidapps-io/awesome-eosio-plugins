@@ -11,7 +11,7 @@ Push blockchain data into a queue
 
 - [kafka_plugin](https://github.com/TP-Lab/kafka_plugin) - Kafka
 - [eos_zmq_plugin](https://github.com/cc32d9/eos_zmq_plugin) - ZeroMQ
-- [eos-rabbitmq-plugin](https://github.com/tmuskal/eos-rabbitmq-plugin) - RabbitMQ
+- [eos-rabbitmq-plugin](https://github.com/bancorprotocol/eos-rabbitmq-plugin) - RabbitMQ
 
 ## DB Plugins:
 Sync blockchain data into a DB
