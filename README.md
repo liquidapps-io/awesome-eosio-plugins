@@ -24,12 +24,18 @@ Sync blockchain data into a DB
 Notify blockchain data to consumers through other protocols:
 
 - [eosio-watcher-plugin](https://github.com/eosauthority/eosio-watcher-plugin) - HTTP POST to endpoint for on chain actions
-- [eosio_block_subscription_plugin](https://github.com/MyWishPlatform/eosio_block_subscription_plugin) - TCP Server for push notifications on chain actions
+- [eosio_block_subscription_plugin](https://github.com/MyWishPlatform/eosio_block_subscription_plugin) - TCP Server for push block notifications 
+- [eosio_trace_subscription_plugin](https://github.com/MyWishPlatform/eosio_trace_subscription_plugin) - TCP Server for push block transaction traces
 
 ## Debug Plugins
 - [eosio_all_code_dump_plugin](https://github.com/spoonincode/eosio_all_code_dump_plugin) - Dump all contract code to a directory
-
+## Aggregation Plugins
+- [eosio-stats-plugin](https://github.com/angelol/eosio-stats-plugin)
+- [eosio_ledger_plugin](https://github.com/tiboong/eosio_ledger_plugin)
 ## Block Producer Plugins:
 - [eos-producer-heartbeat-plugin](https://github.com/bancorprotocol/eos-producer-heartbeat-plugin) - BP Heartbeat 
 - [blacklist_plugin](https://github.com/EOSLaoMao/blacklist_plugin) - Integration with the BP Blacklist contract 
 
+## Extended API Plugins
+- [Accounts API](https://github.com/MyWishPlatform/eosio_acc_check_plugin)
+- [Table Entry](https://github.com/MyWishPlatform/eosio_table_entry_plugin)
